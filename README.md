@@ -6,6 +6,7 @@ Nicolas Andres Rey Ospina</br>
 Oscar Alexander Nope Saavedra</br>
 
 </br>
+Video: 
 </br>
 
 #**Taller 1** 
