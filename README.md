@@ -73,8 +73,12 @@ R/ ependiendo de los delitos se tienen las siguientes descripciones principales:
 </br>
 </br>
 
-**Punto 3**
-
+**Punto 3**</br>
+**A partir de alguno de los conjuntos de datos seleccionados, visualice una serie de tiempo por año y mes que permita comparar la cantidad de delitos cometidos para los departamentos con mayor ocurrencia durante los últimos 5 años. Para que los resultados entre departamentos sean comparables, es importante que normalice las cantidades obtenidas por cantidad de habitantes. En este archivo puede encontrar la población por departamento para el año 2018. Asuma que la población no ha cambiado con el paso de los años.**
+</br>
+Del DataSet de delitos sexuales se observa que los departamentos con mayor cantidad de delitos son los siguientes:
+Antioquia, Cundinamarca y Valle, esto se mantiene durante los últimos 5 años.
+También podemos decir que en todos los departamentos la tendencia ha bajado en el último año.
 </br>
 
 **Punto 4**</br>
